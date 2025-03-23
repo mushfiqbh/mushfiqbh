@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mushfiq R
+## Hey 👋, I'm Mushfiq
   
 
 <a href="https://github.com/mushfiqbh" target="_blank">
