@@ -23,23 +23,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqbh&show_icons=true&locale=en&layout=compact&theme=radical" />
-</div>
-
----
-
-### 💳 GitHub Profile Summary Card
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushfiqbh&theme=github_dark" />
-</div>
-
----
-
 ### 🔗 Contact Me
 
 <div align="center">
